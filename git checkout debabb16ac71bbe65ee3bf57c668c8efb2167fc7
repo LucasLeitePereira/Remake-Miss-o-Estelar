@@ -1,0 +1,57 @@
+[33mcommit 41565f15bd51c93f8dca2d954aaa450819492871[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mLucas[m[33m, [m[1;31morigin/Lucas[m[33m)[m
+Author: Lucas <lucasleitep15@gmail.com>
+Date:   Fri Oct 11 23:45:29 2024 -0300
+
+    Script cena de credito
+    
+    Agora é possivel sair da cena de credito com o esc. E ao final do video, o jogo volta para o menu inicial
+
+[33mcommit 575f42fb7727f95ec9acf39c94c9de06871a1001[m
+Author: Lucas <lucasleitep15@gmail.com>
+Date:   Thu Oct 10 03:36:31 2024 -0300
+
+    Botão de crédito no lugar certo
+
+[33mcommit 68b173ba676363b78b69c0791b53676cbd1b0039[m
+Author: Lucas <lucasleitep15@gmail.com>
+Date:   Thu Oct 10 02:49:11 2024 -0300
+
+    Teste conserto
+
+[33mcommit 19cc5bb3f6d89f0c67912144c55a6e8c20f7f8be[m
+Author: Lucas <lucasleitep15@gmail.com>
+Date:   Thu Oct 10 02:45:35 2024 -0300
+
+    Outro teste
+
+[33mcommit ba6cd367be2d3dcbc62b062f7563b217baf620c7[m
+Author: Lucas <lucasleitep15@gmail.com>
+Date:   Thu Oct 10 02:44:28 2024 -0300
+
+    Teste de Branch
+
+[33mcommit 16f5f1d887126a71cc9679d8f43392d28ed0a63c[m[33m ([m[1;31morigin/Matheus[m[33m, [m[1;31morigin/Juliana[m[33m, [m[1;31morigin/André[m[33m, [m[1;31morigin/Ana-Clara[m[33m)[m
+Author: Lucas <lucasleitep15@gmail.com>
+Date:   Thu Oct 10 02:28:52 2024 -0300
+
+    Update Menu.unity
+
+[33mcommit debabb16ac71bbe65ee3bf57c668c8efb2167fc7[m
+Author: Lucas <lucasleitep15@gmail.com>
+Date:   Thu Oct 10 02:26:01 2024 -0300
+
+    Bug do botão de volume consertado
+
+[33mcommit 9e5e907905b4f5724088a8a8ccdab846bf23e48a[m
+Author: Lucas <lucasleitep15@gmail.com>
+Date:   Thu Oct 10 01:52:35 2024 -0300
+
+    Jogo adicionado
+    
+    Tela de Menu feita, Cena de Crédito criada (Falta incluir o vídeo dos créditos)
+
+[33mcommit da4fd07040f7da21f3ed56e4948cf6a3876ad9af[m
+Author: Lucas <81784917+LucasLeitePereira@users.noreply.github.com>
+Date:   Wed Oct 9 16:55:56 2024 -0300
+
+    Initial commit
