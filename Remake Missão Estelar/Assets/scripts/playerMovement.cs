@@ -189,8 +189,8 @@ public class playerMovement : MonoBehaviour
 
     private void updateHud()
     {
-        hud.text = "Aceleração: " + throttle.ToString("F0") + "%\n";
-        hud.text += "Velocidade: " + (rb.velocity.magnitude * 3.6f).ToString("F0") + "km/h\n";
+        hud.text = "" + throttle.ToString("F0") + "%\n";
+        //hud.text += "" + (rb.velocity.magnitude * 3.6f).ToString("F0") + "km/h\n";
 
     }
 
